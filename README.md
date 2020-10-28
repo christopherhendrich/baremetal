@@ -4,7 +4,7 @@
 
 1. Copy the files to the server, that will be used as admin workstation 
 
-2. Log into the admin workstaiton
+2. Log into the admin workstation
 
 3. Fill out the variables.sh file 
 
