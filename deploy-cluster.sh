@@ -27,6 +27,8 @@ metadata:
   name: $CLUSTER_NAME
   namespace: cluster-$CLUSTER_NAME
 spec:
+  nodeAccess:
+    loginUser: $WORKER_1_USERNAME
   # Cluster type. This can be:
   # 1) admin:  to create an admin cluster. This can later be used to create
   # user clusters
