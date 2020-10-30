@@ -2,9 +2,9 @@
 
 
 
-1. Copy the files to the server, that will be used as admin workstation 
+1. Install GIT on the nodes that will be used as admin workstation
 
-2. Log into the admin workstation
+2. Clone this repo: git https://github.com/christopherhendrich/baremetal/
 
 3. Fill out the variables.sh file 
 
