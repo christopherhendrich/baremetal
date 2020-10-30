@@ -34,9 +34,6 @@ sudo yum install google-cloud-sdk -y
 #Install KUBECTL
 sudo yum install kubectl -y
 
-#install GIT
-sudo yum install git -y
-
 #Create SSH Key
 mkdir keys
 ssh-keygen -t rsa -f ~/keys/node-key -q -N ""
